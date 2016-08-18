@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 1
+  lightness: 0
+  brandStrength: 0.472073
+  brandColors:
+    - '#060604'
+    - '#FFFFFF'
+    - '#ABCBC8'
+    - '#628E6B'
+    - '#D5625D'
+  rhythmicContrast: 0.783127
+typography_spectrum: 0.1283566
+name: Geoff DuQuette VFX
